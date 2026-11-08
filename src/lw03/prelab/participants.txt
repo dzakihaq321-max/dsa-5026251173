@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Raissa
 Fachriza
 Dedy
@@ -7,4 +8,15 @@ Fachriza
 Tessa
 Dedy
 Nayla
+=======
+Raissa
+Fachriza
+Dedy
+Raissa
+Nayla
+Fachriza
+Tessa
+Dedy
+Nayla
+>>>>>>> b3db3943c3274c9f5bb360ba53667099c6bb1c95
 Rizky
