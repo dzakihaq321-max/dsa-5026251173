@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ADD Laptop 10
 ADD Mouse 20
 ADD Keyboard 15
@@ -10,17 +9,4 @@ SELL Keyboard 5
 SELL Monitor 2
 SELL Laptop 20
 ADD Headset 8
-=======
-ADD Laptop 10
-ADD Mouse 20
-ADD Keyboard 15
-SELL Laptop 3
-ADD Laptop 5
-SELL Mouse 25
-ADD Mouse 10
-SELL Keyboard 5
-SELL Monitor 2
-SELL Laptop 20
-ADD Headset 8
->>>>>>> b3db3943c3274c9f5bb360ba53667099c6bb1c95
 SELL Mouse 3

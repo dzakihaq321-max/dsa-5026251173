@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ADD Ditto
 ADD Super Shy
 ADD OMG
@@ -7,14 +6,4 @@ ADD Ditto
 REMOVE Super Shy
 INSERT 2 Hype Boy
 REMOVE Ditto
-=======
-ADD Ditto
-ADD Super Shy
-ADD OMG
-INSERT 1 Attention
-ADD Ditto
-REMOVE Super Shy
-INSERT 2 Hype Boy
-REMOVE Ditto
->>>>>>> b3db3943c3274c9f5bb360ba53667099c6bb1c95
 ADD ETA
